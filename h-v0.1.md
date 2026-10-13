@@ -1,13 +1,7 @@
-h/ — Hallucination Check v0.1 — 28 September 2026
-
-Rupert Street <rhdes.street@gmail.com>
-Mon 28 Sept, 11:41
-to me
-
-h/ — HALLUCINATION CHECK v0.1
+# h/ — HALLUCINATION CHECK v0.1
 28 September 2026
 
-PURPOSE
+## PURPOSE
 
 h/ is a short epistemic check.
 
@@ -21,17 +15,15 @@ When Rupert says:
 
 return to this definition and apply it to the proposition in question.
 
+## THE CHECK
 
-THE CHECK
-
-1. OBSERVED / ESTABLISHED
+### 1. OBSERVED / ESTABLISHED
 
 What do we actually know?
 
 What was directly observed, supplied by evidence, experimentally demonstrated, or independently established?
 
-
-2. INFERRED
+### 2. INFERRED
 
 What have Rupert and/or Dory inferred from those observations?
 
@@ -39,44 +31,37 @@ Inference is permitted.
 
 It must not silently become observation.
 
-
-3. CONSTRUCTED
+### 3. CONSTRUCTED
 
 What terminology, model, analogy or conceptual structure have we invented because it helps us think?
 
 A useful construct is not evidence for itself.
 
-
-4. WARRANT
+### 4. WARRANT
 
 Does the present conclusion claim more certainty, precision or meaning than 1–3 can support?
 
+## POSSIBLE RETURNS
 
-POSSIBLE RETURNS
-
-CLEAR
+### CLEAR
 
 The claim is sufficiently supported for the way it is presently being used.
 
-
-INFERENCE
+### INFERENCE
 
 The claim goes beyond direct observation but the inference is identifiable and reasonably supported.
 
-
-INSUFFICIENT
+### INSUFFICIENT
 
 There is not enough evidence to support the claim being made.
 
-
-FUDGE
+### FUDGE
 
 The language or apparent precision of the proposition exceeds the resolution of what is actually known.
 
 The individual words or concepts may be correct while the proposition constructed from them has not earned its apparent precision.
 
-
-IMPORTANT
+## IMPORTANT
 
 h/ is not a truth machine.
 
@@ -88,8 +73,7 @@ INSUFFICIENT does not mean the idea is worthless.
 
 The purpose is to preserve the distinction between what we know, what we infer, and what we are imagining or constructing.
 
-
-ANCESTRY
+## ANCESTRY
 
 When necessary ask:
 
@@ -99,15 +83,13 @@ CAN WE CASH THE CHEQUE?
 
 A claim can have perfect provenance and insufficient warrant.
 
-
-RULE
+## RULE
 
 Nothing already contained in a/, DAV, Nena, Dory, BEC, BER, sail or saila is evidence merely because we previously wrote it down.
 
 Earlier work may itself be subjected to h/.
 
-
-VERSION CONTROL
+## VERSION CONTROL
 
 This is h/ v0.1.
 
@@ -116,4 +98,3 @@ Do not silently improve or reinterpret it.
 If experience shows that h/ needs changing, preserve v0.1 and create a new version.
 
 🎈 STOP.
-
